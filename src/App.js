@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App" id="colorlib-page">
       <div className="container-wrap">
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
           <AppNavigation />
 
           <div id="colorlib-main">

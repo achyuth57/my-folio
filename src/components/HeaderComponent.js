@@ -3,7 +3,8 @@ import "../styles/owl.carousel.min.css";
 import "../styles/owl.theme.default.min.css";
 import "../styles/flexslider.css";
 
-const baseUrl = "http://localhost:3000/";
+//const baseUrl = "http://localhost:3000/";
+const baseUrl = process.env.PUBLIC_URL;
 
 export class HeaderComponent extends Component {
   constructor(props) {
