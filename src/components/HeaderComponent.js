@@ -35,7 +35,7 @@ export class HeaderComponent extends Component {
               <ul className="slides">
                 <li
                   style={{
-                    backgroundImage: `url(${baseUrl}assets/images/bg_1.jpg)`
+                    backgroundImage: `url(${baseUrl}/assets/images/bg_1.jpg)`
                   }}
                 >
                   <div className="overlay"></div>
@@ -71,7 +71,7 @@ export class HeaderComponent extends Component {
                 </li>
                 <li
                   style={{
-                    backgroundImage: `URL(${baseUrl}assets/images/bg_2.jpg)`
+                    backgroundImage: `URL(${baseUrl}/assets/images/bg_2.jpg)`
                   }}
                 >
                   <div className="overlay"></div>
