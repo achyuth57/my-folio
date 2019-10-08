@@ -21,13 +21,13 @@ function ServicesComponent() {
             <div className="col-md-4 text-center animate-box">
               <div className="services color-1">
                 <span className="icon">
-                  <i className="icon-bulb"></i>
+                  <i className="icon-brush"></i>
                 </span>
                 <div className="desc">
-                  <h3>Innovative Ideas</h3>
+                  <h3>GRAPHIC DESIGN</h3>
                   <p>
-                    Separated they live in Bookmarksgrove right at the coast of
-                    the Semantics
+                    Creating logos, brouchers, web templates and all promotional
+                    meterials.
                   </p>
                 </div>
               </div>
@@ -35,13 +35,13 @@ function ServicesComponent() {
             <div className="col-md-4 text-center animate-box">
               <div className="services color-2">
                 <span className="icon">
-                  <i className="icon-data"></i>
+                  <i className="icon-code"></i>
                 </span>
                 <div className="desc">
-                  <h3>Software</h3>
+                  <h3>PSD to HTML Services</h3>
                   <p>
-                    Separated they live in Bookmarksgrove right at the coast of
-                    the Semantics
+                    where mock designs are made first and then development of
+                    website.
                   </p>
                 </div>
               </div>
@@ -49,13 +49,13 @@ function ServicesComponent() {
             <div className="col-md-4 text-center animate-box">
               <div className="services color-3">
                 <span className="icon">
-                  <i className="icon-phone3"></i>
+                  <i className="icon-svg"></i>
                 </span>
                 <div className="desc">
-                  <h3>Application</h3>
+                  <h3>ReactJS Development</h3>
                   <p>
-                    Separated they live in Bookmarksgrove right at the coast of
-                    the Semantics
+                    Get speed, simplicity and scalability with UI Layer as we
+                    expertise in React JS.
                   </p>
                 </div>
               </div>
@@ -63,13 +63,13 @@ function ServicesComponent() {
             <div className="col-md-4 text-center animate-box">
               <div className="services color-4">
                 <span className="icon">
-                  <i className="icon-layers2"></i>
+                  <i className="icon-cog"></i>
                 </span>
                 <div className="desc">
-                  <h3>Graphic Design</h3>
+                  <h3>Web Development</h3>
                   <p>
-                    Separated they live in Bookmarksgrove right at the coast of
-                    the Semantics
+                    I am using latest technologies to make sure web application
+                    is robust, fast loading and responsive.
                   </p>
                 </div>
               </div>
@@ -77,13 +77,13 @@ function ServicesComponent() {
             <div className="col-md-4 text-center animate-box">
               <div className="services color-5">
                 <span className="icon">
-                  <i className="icon-data"></i>
+                  <i className="icon-layers2"></i>
                 </span>
                 <div className="desc">
-                  <h3>Software</h3>
+                  <h3>UI Integration</h3>
                   <p>
-                    Separated they live in Bookmarksgrove right at the coast of
-                    the Semantics
+                    I work closely with your development team to integrate the
+                    front end UI into your web application .
                   </p>
                 </div>
               </div>
@@ -94,10 +94,10 @@ function ServicesComponent() {
                   <i className="icon-phone3"></i>
                 </span>
                 <div className="desc">
-                  <h3>Application</h3>
+                  <h3> UI/UX Design Services</h3>
                   <p>
-                    Separated they live in Bookmarksgrove right at the coast of
-                    the Semantics
+                    Using latest technologies and platforms like HTML5, CSS3 and
+                    jQuery, Bootstrap, Rest API etc...
                   </p>
                 </div>
               </div>

@@ -15,18 +15,11 @@ function AboutComponent() {
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>
-                      <strong>Hi I'm Achyuth Kumar Vaddi</strong> On her way she
-                      met a copy. The copy warned the Little Blind Text, that
-                      where it came from it would have been rewritten a thousand
-                      times and everything that was left from its origin would
-                      be the word "and" and the Little Blind Text should turn
-                      around and return to its own, safe country.
-                    </p>
-                    <p>
-                      Even the all-powerful Pointing has no control about the
-                      blind texts it is an almost unorthographic life One day
-                      however a small line of blind text by the name of Lorem
-                      Ipsum decided to leave for the far World of Grammar.
+                      <strong>Hi I'm Achyuth Kumar Vaddi,</strong> having 6+
+                      years of IT experience which includes 1 year of Extensive
+                      experience as a React JS Developer and 4 years of
+                      Experience as a UI/UX Developer and 2 years of Experience
+                      as UI/UX designer.
                     </p>
                   </div>
                 </div>
@@ -85,7 +78,7 @@ function AboutComponent() {
                   <div className="hire">
                     <h2>
                       I am happy to know you <br />
-                      that 300+ projects done sucessfully!
+                      that 70+ projects done sucessfully!
                     </h2>
                     <a href="#" className="btn-hire">
                       Hire me

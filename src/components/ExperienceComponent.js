@@ -27,15 +27,38 @@ function ExperienceComponent() {
                     </div>
                     <div className="timeline-label">
                       <h2>
-                        <a href="#">Full Stack Developer</a>{" "}
-                        <span>2017-2018</span>
+                        Sr Project Engineer at Wipro &nbsp;
+                        <span>April'19- Till date</span>
                       </h2>
                       <p>
-                        Tolerably earnestly middleton extremely distrusts she
-                        boy now not. Add and offered prepare how cordial two
-                        promise. Greatly who affixed suppose but enquire compact
-                        prepare all put. Added forth chief trees but rooms think
-                        may.
+                        Responsibilities:
+                        <ul>
+                          <li>
+                            Design, develop HTML5, CSS3, Bootstrap, JavaScript,
+                            jQuery and React.JS that meets optimizedUI and web
+                            browser standards for website.
+                          </li>
+                          <li>
+                            Developed user interface by using the React JSfor
+                            SPA development.
+                          </li>
+                          <li>
+                            Used React-Router to turn application into Single
+                            Page Application.
+                          </li>
+                          <li>
+                            Worked in using React JS components, Forms, Events,
+                            Routerconcepts.
+                          </li>
+                          <li>
+                            Used Web services (SOAP and RESTful) for
+                            transmission of large blocks of JSON.
+                          </li>
+                          <li>
+                            Extensively used Git for version controlling and
+                            regularly pushed the code to GitHub
+                          </li>
+                        </ul>
                       </p>
                     </div>
                   </div>
@@ -50,14 +73,23 @@ function ExperienceComponent() {
                     </div>
                     <div className="timeline-label">
                       <h2>
-                        <a href="#">Front End Developer at Google Company</a>{" "}
-                        <span>2017-2018</span>
+                        Front End Developer at Tech Mahindra &nbsp;
+                        <span>March'16-April'19</span>
                       </h2>
                       <p>
-                        Even the all-powerful Pointing has no control about the
-                        blind texts it is an almost unorthographic life One day
-                        however a small line of blind text by the name of Lorem
-                        Ipsum decided to leave for the far World of Grammar.
+                        Creating/Implementingthe html5 interactivesand web
+                        applications using Html5, css3, JavaScript and Angular2.
+                      </p>
+                      <p>
+                        <strong>Services Rendered</strong>
+                        <ul>
+                          <li>Frontend development with responsive.</li>
+                          <li>
+                            Adding validation and other functionalities using
+                            JavaScript, Angular2.
+                          </li>
+                          <li>Rebuilt the UI and its functionality.</li>
+                        </ul>
                       </p>
                     </div>
                   </div>
@@ -72,38 +104,19 @@ function ExperienceComponent() {
                     </div>
                     <div className="timeline-label">
                       <h2>
-                        <a href="#">System Analyst</a> <span>2017-2018</span>
+                        Web Developer at Erudite Web Solutions &nbsp;
+                        <span>Feb'14-Mar'16</span>
                       </h2>
                       <p>
-                        Even the all-powerful Pointing has no control about the
-                        blind texts it is an almost unorthographic life One day
-                        however a small line of blind text by the name of Lorem
-                        Ipsum decided to leave for the far World of Grammar.
+                        Developing web applications and intigrating UI
+                        components also Created backend applications like admin
+                        pannel using Bootstrap, html5, css3, JavaScript, jquery,
+                        php and mysql.
                       </p>
                     </div>
                   </div>
                 </article>
-                <article
-                  className="timeline-entry animate-box"
-                  data-animate-effect="fadeInTop"
-                >
-                  <div className="timeline-entry-inner">
-                    <div className="timeline-icon color-4">
-                      <i className="icon-pen2"></i>
-                    </div>
-                    <div className="timeline-label">
-                      <h2>
-                        <a href="#">Creative Designer</a> <span>2017-2018</span>
-                      </h2>
-                      <p>
-                        Even the all-powerful Pointing has no control about the
-                        blind texts it is an almost unorthographic life One day
-                        however a small line of blind text by the name of Lorem
-                        Ipsum decided to leave for the far World of Grammar.
-                      </p>
-                    </div>
-                  </div>
-                </article>
+
                 <article
                   className="timeline-entry animate-box"
                   data-animate-effect="fadeInLeft"
@@ -114,14 +127,12 @@ function ExperienceComponent() {
                     </div>
                     <div className="timeline-label">
                       <h2>
-                        <a href="#">UI/UX Designer at Envato</a>{" "}
-                        <span>2017-2018</span>
+                        UI/UX Designer at Mallareddy Groups &nbsp;
+                        <span>Jul'12-Jan'14</span>
                       </h2>
                       <p>
-                        Even the all-powerful Pointing has no control about the
-                        blind texts it is an almost unorthographic life One day
-                        however a small line of blind text by the name of Lorem
-                        Ipsum decided to leave for the far World of Grammar.
+                        Designed, developed & mainted websites using photoshop,
+                        html, css, JavaScript.
                       </p>
                     </div>
                   </div>
