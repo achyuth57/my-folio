@@ -147,8 +147,7 @@ var clickMenu = function() {
   $(".navbar li a").click(function(event) {
     $("html, body").animate(
       {
-        // catch the `html, body`
-        scrollTop: $(this).offset().top - 10 // button's offset - 10
+        scrollTop: $("section").offset().top
       },
       1000
     );
