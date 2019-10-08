@@ -1,5 +1,6 @@
 import React from "react";
-const baseUrl = "http://localhost:3000/";
+//const baseUrl = "http://localhost:3000/";
+const baseUrl = process.env.PUBLIC_URL;
 function ServicesComponent() {
 
     return(
