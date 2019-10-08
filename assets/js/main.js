@@ -145,6 +145,13 @@ var mobileMenuOutsideClick = function() {
 };
 var clickMenu = function() {
   $(".navbar li a").click(function(event) {
+    $("html, body").animate(
+      {
+        // catch the `html, body`
+        scrollTop: $(this).offset().top - 10 // button's offset - 10
+      },
+      1000
+    );
     if ($("body").hasClass("offcanvas")) {
       $("body").removeClass("offcanvas");
       $(".js-colorlib-nav-toggle").removeClass("active");
