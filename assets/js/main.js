@@ -121,6 +121,7 @@ var burgerMenu = function() {
       $("body").removeClass("offcanvas");
     } else {
       $this.addClass("active");
+
       $("body").addClass("offcanvas");
     }
   });
@@ -143,24 +144,11 @@ var mobileMenuOutsideClick = function() {
   });
 };
 var clickMenu = function() {
-  $('#navbar a:not([class="external"])').click(function(event) {
-    var section = $(this).data("nav-section"),
-      navbar = $("#navbar");
-    if ($('[data-section="' + section + '"]').length) {
-      $("html, body").animate(
-        {
-          scrollTop: $('[data-section="' + section + '"]').offset().top - 55
-        },
-        500
-      );
-    }
-    if (navbar.is(":visible")) {
-      navbar.removeClass("in");
-      navbar.attr("aria-expanded", "false");
+  $(".navbar li a").click(function(event) {
+    if ($("body").hasClass("offcanvas")) {
+      $("body").removeClass("offcanvas");
       $(".js-colorlib-nav-toggle").removeClass("active");
     }
-    event.preventDefault();
-    return false;
   });
 };
 // var navActive = function(section) {
@@ -173,29 +161,29 @@ var clickMenu = function() {
 //       .addClass("active");
 //   });
 // };
-var navigationSection = function() {
-  var $section = $("section[data-section]");
-  $section.waypoint(
-    function(direction) {
-      if (direction === "down") {
-        navActive($(this.element).data("section"));
-      }
-    },
-    { offset: "150px" }
-  );
-  $section.waypoint(
-    function(direction) {
-      if (direction === "up") {
-        navActive($(this.element).data("section"));
-      }
-    },
-    {
-      offset: function() {
-        return -$(this.element).height() + 155;
-      }
-    }
-  );
-};
+// var navigationSection = function() {
+//   var $section = $("section[data-section]");
+//   $section.waypoint(
+//     function(direction) {
+//       if (direction === "down") {
+//         navActive($(this.element).data("section"));
+//       }
+//     },
+//     { offset: "150px" }
+//   );
+//   $section.waypoint(
+//     function(direction) {
+//       if (direction === "up") {
+//         navActive($(this.element).data("section"));
+//       }
+//     },
+//     {
+//       offset: function() {
+//         return -$(this.element).height() + 155;
+//       }
+//     }
+//   );
+// };
 
 var stickyFunction = function() {
   var h = $(".image-content").outerHeight();
@@ -245,7 +233,7 @@ var owlCrouselFeatureSlide = function() {
   burgerMenu();
   clickMenu();
   sliderMain();
-  navigationSection();
+  //navigationSection();
   mobileMenuOutsideClick();
   stickyFunction();
   owlCrouselFeatureSlide();
