@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-folio/static/css/main.b890557a.chunk.css",
+    "main.css": "/my-folio/static/css/main.00d252e7.chunk.css",
     "main.js": "/my-folio/static/js/main.a647a88a.chunk.js",
     "main.js.map": "/my-folio/static/js/main.a647a88a.chunk.js.map",
     "runtime~main.js": "/my-folio/static/js/runtime~main.06803b53.js",
@@ -8,9 +8,9 @@
     "static/js/2.fbe344a6.chunk.js": "/my-folio/static/js/2.fbe344a6.chunk.js",
     "static/js/2.fbe344a6.chunk.js.map": "/my-folio/static/js/2.fbe344a6.chunk.js.map",
     "index.html": "/my-folio/index.html",
-    "precache-manifest.40b6e75ad93ef2cd27e35fac5b9b2c2e.js": "/my-folio/precache-manifest.40b6e75ad93ef2cd27e35fac5b9b2c2e.js",
+    "precache-manifest.49c24ef30e4adc177f4df8a26f89122e.js": "/my-folio/precache-manifest.49c24ef30e4adc177f4df8a26f89122e.js",
     "service-worker.js": "/my-folio/service-worker.js",
-    "static/css/main.b890557a.chunk.css.map": "/my-folio/static/css/main.b890557a.chunk.css.map",
+    "static/css/main.00d252e7.chunk.css.map": "/my-folio/static/css/main.00d252e7.chunk.css.map",
     "static/media/icons.css": "/my-folio/static/media/icomoon.ee8d016f.ttf"
   }
 }
