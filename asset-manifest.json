@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-folio/static/css/main.2126cebc.chunk.css",
-    "main.js": "/my-folio/static/js/main.d87328bd.chunk.js",
-    "main.js.map": "/my-folio/static/js/main.d87328bd.chunk.js.map",
+    "main.css": "/my-folio/static/css/main.a94baf5c.chunk.css",
+    "main.js": "/my-folio/static/js/main.ba38ce80.chunk.js",
+    "main.js.map": "/my-folio/static/js/main.ba38ce80.chunk.js.map",
     "runtime~main.js": "/my-folio/static/js/runtime~main.06803b53.js",
     "runtime~main.js.map": "/my-folio/static/js/runtime~main.06803b53.js.map",
-    "static/js/2.fbe344a6.chunk.js": "/my-folio/static/js/2.fbe344a6.chunk.js",
-    "static/js/2.fbe344a6.chunk.js.map": "/my-folio/static/js/2.fbe344a6.chunk.js.map",
+    "static/js/2.743a0fe6.chunk.js": "/my-folio/static/js/2.743a0fe6.chunk.js",
+    "static/js/2.743a0fe6.chunk.js.map": "/my-folio/static/js/2.743a0fe6.chunk.js.map",
     "index.html": "/my-folio/index.html",
-    "precache-manifest.6a9a50cecaa101c4aaf69e502ef13ea5.js": "/my-folio/precache-manifest.6a9a50cecaa101c4aaf69e502ef13ea5.js",
+    "precache-manifest.daca7074b2ad3810cc6d98f725f21044.js": "/my-folio/precache-manifest.daca7074b2ad3810cc6d98f725f21044.js",
     "service-worker.js": "/my-folio/service-worker.js",
-    "static/css/main.2126cebc.chunk.css.map": "/my-folio/static/css/main.2126cebc.chunk.css.map",
+    "static/css/main.a94baf5c.chunk.css.map": "/my-folio/static/css/main.a94baf5c.chunk.css.map",
     "static/media/icons.css": "/my-folio/static/media/icomoon.ee8d016f.ttf"
   }
 }
